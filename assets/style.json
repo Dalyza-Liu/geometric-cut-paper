@@ -1,0 +1,49 @@
+{
+  "schema": "geometric-cut-paper-style/v1",
+  "source": "Vegetable baseline and user-approved leaf style; grocery colors retained as draft extensions. Native HEX values, not sampled pixels.",
+  "palette": {
+    "paper": "#FFEAC5",
+    "cream": "#FFF7DC",
+    "broccoli": "#709E5D",
+    "lime": "#B2D345",
+    "forest": "#008638",
+    "leaf": "#198A43",
+    "orange": "#FF841D",
+    "tomato": "#F85A08",
+    "yellow": "#FFC400",
+    "stem": "#6E9958",
+    "olive": "#8B7E08",
+    "teal": "#006C60",
+    "pea": "#8BC600",
+    "peaOverlap": "#009E36",
+    "stemOverlap1": "#278E32",
+    "stemOverlap2": "#2E993A",
+    "stemOverlap3": "#2C9C39",
+    "tomatoOverlap": "#28672C",
+    "pale": "#DBE5B4",
+    "gold": "#F3AB05",
+    "meat": "#E9653E",
+    "meatDark": "#BE4B30",
+    "cheeseLight": "#FFD03B",
+    "grainDark": "#31572D"
+  },
+  "grain": {
+    "seed": 84319,
+    "tile": 112,
+    "count": 780,
+    "radiusMin": 0.12,
+    "radiusRange": 0.57,
+    "light": "#FFF7DC",
+    "dark": "#31572D",
+    "darkEvery": 4,
+    "lightOpacityMin": 0.06,
+    "lightOpacityRange": 0.2,
+    "darkOpacityMin": 0.025,
+    "darkOpacityRange": 0.06
+  },
+  "defaults": {
+    "individualBackground": "transparent",
+    "overviewBackground": "transparent",
+    "individualPNGSize": 800
+  }
+}

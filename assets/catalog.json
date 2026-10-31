@@ -1,0 +1,198 @@
+{
+  "schema": "supermarket-component-catalog/v1",
+  "components": [
+    {
+      "id": "broccoli",
+      "file": "components/broccoli.svg",
+      "viewBox": [
+        186.0,
+        13.0,
+        404.0,
+        445.0
+      ],
+      "sha256": "79223e9edf8b5df23c5066129b87ddf8e320a39a167bd5b72ca5fa40f934e82c",
+      "review_status": "style-reference"
+    },
+    {
+      "id": "tomato",
+      "file": "components/tomato.svg",
+      "viewBox": [
+        586.0,
+        27.0,
+        310.0,
+        380.0
+      ],
+      "sha256": "bd4e669b916eb40e38b57863980e2110c32614a7d86eda440c6b902b7bb520ba",
+      "review_status": "style-reference"
+    },
+    {
+      "id": "peas",
+      "file": "components/peas.svg",
+      "viewBox": [
+        504.0,
+        376.0,
+        366.0,
+        234.0
+      ],
+      "sha256": "87a10dd6da64ac7b7d3ba1723a2daceace5e46355e2f4cb5d991484f439a0da2",
+      "review_status": "style-reference"
+    },
+    {
+      "id": "carrot",
+      "file": "components/carrot.svg",
+      "viewBox": [
+        205.0,
+        467.0,
+        297.0,
+        599.0
+      ],
+      "sha256": "6ad5a46ce08955235299a1152db8fbb398503ba00b0353e700f67aecd15d7e03",
+      "review_status": "style-reference"
+    },
+    {
+      "id": "yellow-pepper",
+      "file": "components/yellow-pepper.svg",
+      "viewBox": [
+        470.0,
+        631.0,
+        365.0,
+        442.0
+      ],
+      "sha256": "409ecd0a4f1d1f8c2602e0c8c58b25230661680c69d719332c60a299b37ee0c2",
+      "review_status": "style-reference"
+    },
+    {
+      "id": "milk",
+      "file": "components/milk.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "5aeb90a40d1ec7f4d344ce369a7da101fcfe5d69f7233d3856affe7193db749c",
+      "review_status": "retained-in-user-confirmed-composition"
+    },
+    {
+      "id": "water",
+      "file": "components/water.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "6fb7842f80672c33177b9187d634f15fefbd01ceac4e98aa614cdde3743b0c78",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "beef",
+      "file": "components/beef.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "a3abf87811712c11e3229afb6a67bb7667e19134504e9530b2859b95444d2ded",
+      "review_status": "retained-in-user-confirmed-composition"
+    },
+    {
+      "id": "bread",
+      "file": "components/bread.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "3541576e2a3aa260f5363684aa79d19fc2aacdabe44c923df8bc3e7a94ffefef",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "eggs",
+      "file": "components/eggs.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "14a6c968ad4227672187493100c82affc7583da117a8ea1fc5057627eeb293b2",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "cheese",
+      "file": "components/cheese.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "e8184bc5bcdea00e34565b390d8622fc45b91ac861e434ccebaa683e0fc086a8",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "fish",
+      "file": "components/fish.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "edfabd2cb8b9f921734ad573e06146301abafedf666e7e0328d623bc0f031688",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "bananas",
+      "file": "components/bananas.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "13ff90f3c2099b93c5afdebf69638ac01177338eaeb9c823e39fad23684f7118",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "canned-food",
+      "file": "components/canned-food.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "sha256": "b896991cb6cc81a7a69536d81d9840a1d782e62c7c11b8dc1cc96ef48e4172a6",
+      "review_status": "draft-requires-visual-review"
+    },
+    {
+      "id": "leaf",
+      "file": "components/leaf.svg",
+      "label": "几何叶片",
+      "sha256": "42d864ca71158a3132f54e69cfc512923f699cd08522b18fad944da89e876335",
+      "review_status": "user-approved-style-reference",
+      "viewBox": [
+        190.0,
+        390.0,
+        950.0,
+        510.0
+      ]
+    },
+    {
+      "id": "yogurt",
+      "file": "components/yogurt.svg",
+      "sha256": "411badfa9b2146b018492490cee6e5f7a8ffbee7c8750da6fba3af123c055919",
+      "viewBox": [
+        0.0,
+        0.0,
+        400.0,
+        400.0
+      ],
+      "review_status": "user-approved-style-reference"
+    }
+  ]
+}

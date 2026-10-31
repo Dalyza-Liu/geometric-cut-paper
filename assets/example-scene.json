@@ -1,0 +1,54 @@
+{
+  "schema": "supermarket-scene/v1",
+  "canvas": {
+    "width": 1200,
+    "height": 1200,
+    "background": "transparent"
+  },
+  "items": [
+    {
+      "id": "milk",
+      "source": "catalog:milk",
+      "label": "牛奶",
+      "bbox": [
+        0,
+        0,
+        600,
+        600
+      ]
+    },
+    {
+      "id": "leaf",
+      "source": "catalog:leaf",
+      "label": "原叶片保留",
+      "bbox": [
+        600,
+        0,
+        600,
+        600
+      ]
+    },
+    {
+      "id": "yogurt",
+      "source": "catalog:yogurt",
+      "label": "酸奶",
+      "bbox": [
+        0,
+        600,
+        600,
+        600
+      ]
+    },
+    {
+      "id": "beef",
+      "source": "catalog:beef",
+      "label": "牛肉",
+      "bbox": [
+        600,
+        600,
+        600,
+        600
+      ]
+    }
+  ]
+}
