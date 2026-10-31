@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <title>Upright yogurt cup with a flat sealed foil lid</title>
+  <defs>
+    <clipPath id="cup-clip">
+      <path d="M87 141 313 141 287 278 275 300 247 312 155 312 127 300 114 278Z"/>
+    </clipPath>
+    <clipPath id="sage-print-clip">
+      <path d="M80 190 251 180 279 275 118 311Z"/>
+    </clipPath>
+  </defs>
+  <g id="yogurt-cup">
+    <g id="upright-cup-body">
+      <path id="cream-body" d="M87 141 313 141 287 278 275 300 247 312 155 312 127 300 114 278Z" fill="#FFF7DC" data-grain="1"/>
+      <g id="overlapping-paper-print" clip-path="url(#cup-clip)">
+        <path id="sage-paper" d="M80 190 251 180 279 275 118 311Z" fill="#709E5D" data-grain="1"/>
+        <path id="lime-paper" d="M100 258 310 209 300 319 110 319Z" fill="#B2D345" data-grain="1"/>
+        <g id="two-inks-overlap" clip-path="url(#sage-print-clip)">
+          <path id="green-overprint" d="M100 258 310 209 300 319 110 319Z" fill="#008638" data-grain="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="flat-sealed-lid">
+      <path id="thin-cream-rim" d="M77 135 86 120 115 110 161 104 235 104 283 112 313 124 323 138 317 151 290 164 239 174 166 174 114 165 85 152Z" fill="#FFF7DC" data-grain="1"/>
+      <path id="flat-short-pull-tab" d="M304 137 331 140 333 151 324 157 303 153Z" fill="#709E5D" data-grain="1"/>
+      <path id="sealed-foil-face" d="M79 132 89 118 117 108 163 102 234 102 281 110 310 122 319 134 311 146 284 158 237 167 166 167 116 158 89 146Z" fill="#B2D345" data-grain="1"/>
+      <path id="sage-foil-print" d="M89 118 117 108 163 102 234 102 268 108 276 139 205 154 144 147Z" fill="#709E5D" data-grain="1"/>
+      <path id="foil-overprint" d="M112 135 268 108 276 139 205 154 144 147Z" fill="#008638" data-grain="1"/>
+    </g>
+  </g>
+</svg>

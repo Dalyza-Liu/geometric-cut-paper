@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <title>Milk carton — cut paper planes and overlapping ink</title>
+  <g id="milk-carton">
+    <path id="cream-front" d="M92 142 240 121 278 336 119 365 103 269Z" fill="#FFF7DC" data-grain="1"/>
+    <path id="sage-side" d="M240 121 292 94 321 305 278 336Z" fill="#709E5D" data-grain="1"/>
+    <path id="front-fold" d="M92 142 121 84 216 70 240 121Z" fill="#B2D345" data-grain="1"/>
+    <path id="side-fold" d="M216 70 253 51 292 94 240 121Z" fill="#008638" data-grain="1"/>
+    <path id="fold-seam" d="M216 70 240 121 208 126Z" fill="#709E5D" data-grain="1"/>
+    <path id="top-seal" d="M120 66 216 51 216 70 121 84Z" fill="#709E5D" data-grain="1"/>
+    <path id="seal-overlap" d="M216 51 251 33 253 51 216 70Z" fill="#006C60" data-grain="1"/>
+    <g id="printed-cut-paper-wrap">
+      <path id="sage-block" d="M100 224 253 191 270 291 111 315Z" fill="#709E5D" data-grain="1"/>
+      <path id="lime-block" d="M108 294 260 233 278 336 119 365Z" fill="#B2D345" data-grain="1"/>
+      <path id="green-overprint" d="M108 294 260 233 270 291 111 315Z" fill="#008638" data-grain="1"/>
+      <path id="side-overprint" d="M260 233 309 211 321 305 278 336Z" fill="#198A43" data-grain="1"/>
+    </g>
+  </g>
+</svg>

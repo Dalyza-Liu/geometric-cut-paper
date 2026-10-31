@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <title>Beef steak — angular red planes with asymmetric fat seam</title>
+  <g id="beef-steak">
+    <path id="lower-cut" d="M59 195 85 150 157 110 236 111 291 139 326 183 315 230 269 261 223 268 180 311 128 335 85 316 56 276Z" fill="#BE4B30" data-grain="1"/>
+    <path id="fat-edge" d="M51 172 74 128 145 88 219 83 280 104 317 145 323 183 296 226 253 240 213 239 176 277 123 303 79 287 52 250 43 209Z" fill="#FFF7DC" data-grain="1"/>
+    <path id="red-top" d="M51 172 74 128 145 88 219 83 280 104 317 145 323 183 296 216 252 228 207 226 171 264 121 288 88 276 63 244 52 210Z" fill="#E9653E" data-grain="1"/>
+    <path id="upper-plane" d="M74 128 145 88 219 83 280 104 317 145 269 169 211 180 145 158Z" fill="#F85A08" data-grain="1"/>
+    <path id="lower-plane" d="M52 210 107 181 151 177 194 213 171 264 121 288 88 276 63 244Z" fill="#BE4B30" data-grain="1"/>
+    <path id="fat-seam" d="M145 88 163 118 199 150 209 180 192 218 171 264 159 270 178 218 195 177 189 156 153 123Z" fill="#FFF7DC" data-grain="1"/>
+    <path id="branch-seam" d="M204 178 236 164 280 156 294 161 253 169 207 186Z" fill="#FFF7DC" data-grain="1"/>
+  </g>
+</svg>
