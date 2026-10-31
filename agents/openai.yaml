@@ -1,0 +1,4 @@
+interface:
+  display_name: "几何剪纸插画"
+  short_description: "以大色块、圆弧与斜切边缘绘制剪纸风格插画，保留叠色、轻微颗粒和透明背景"
+  default_prompt: "使用 $geometric-cut-paper 按既定色板绘制插画素材，以大色块结合圆弧和斜切边缘，保留叠色与轻微颗粒，交付透明背景的可编辑 SVG 和 PNG。"
